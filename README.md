@@ -1,5 +1,5 @@
 # Codsoft_TASK_2
-Crafting a Simple Calculator in C++: A Journey of Logic and Precision 🚀
+__Crafting a Simple Calculator in C++:__ A Journey of Logic and Precision 🚀
 
 In this project, I harnessed the power of C++ to create a sleek and efficient calculator. I implemented efficient algorithms for each operation, ensuring accuracy and speed. 
 
